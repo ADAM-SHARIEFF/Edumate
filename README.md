@@ -48,4 +48,4 @@ The Text Recognizer feature enables users to upload PDF documents and extract te
 
 ## Credits
 
-EduMate was developed by Suar Mohammed Riyaz, Veeramalla nitish reddy, Rishabh Nair and safwaan sharieff as a project for hackathon. 
+EduMate was developed by Sunar Mohammed Riyaz, Veeramalla nitish reddy, Rishab Nair and safwaan sharieff as a project for hackathon. 
